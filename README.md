@@ -1,6 +1,5 @@
 # 👋 Heyo! I'm Rolo.
 # 💫 Here is what im working on:
-**📺 rokuRA - A python tool for remotely controlling your Roku television.**  
 **🌸 Customizing and configuring my Arch Linux (btw) Hyprland setup.**  
 **🤓 Studying Computer Science at University!**
 
