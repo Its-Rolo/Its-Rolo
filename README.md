@@ -1,5 +1,6 @@
 # 👋 Heyo! I'm Rolo.
-# 💫 Here is what im working on:
+# 💫 Here is what im working on
+**📺 Remote-Framework, a python script that makes creating a custom telivision remote easy.**
 **🌸 Customizing and configuring my Arch Linux (btw) Hyprland setup.**  
 **🤓 Studying Computer Science at University!**
 
