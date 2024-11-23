@@ -1,7 +1,7 @@
 # 👋 Heyo! I'm Rolo.
-# 💫 Here is what im working on
-**📺 Remote-Framework, a python script that makes creating a custom telivision remote easy.**  
+# 💫 Here is what im working on 
 **🟢 GoForGreen, a python script that reminds you to commit daily on github.**  
+**🔗 rolo.wtf, a custom link homepage**
 **🌸 Customizing and configuring my Arch Linux (btw) Hyprland setup.**  
 **🤓 Studying Computer Science at University!**
 
